@@ -1,0 +1,12 @@
+{
+  "name": "learn-youtube-bar",
+  "version": "0.0.0",
+  "authors": [
+    "Jason Rey <jasonrey@outlook.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "less": "~2.5.1"
+  }
+}
